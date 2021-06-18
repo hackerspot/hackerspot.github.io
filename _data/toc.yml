@@ -1,4 +1,4 @@
-- title: Documentation
+- title: Wiki
   url: docs
   links:
     - title: "Getting Started"
@@ -12,6 +12,13 @@
           url: "docs/getting-started#customization"
     - title: "Extras"
       url: "docs/extras"
+      children:
+        - title: Quizzes
+          url: "docs/extras/example-quiz"
+        - title: Tags Page
+          url: "tags"
+    - title: "CheatSheets"
+      url: "docs/cheatsheets"
       children:
         - title: Quizzes
           url: "docs/extras/example-quiz"

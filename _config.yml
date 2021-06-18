@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: HackerSpot 
+title: HackerSpot
 email: hacketspotnet@gmail.com
 author: Dinosaur Avocado
 description: > # this means to ignore newlines until "baseurl:"
@@ -45,7 +45,7 @@ feedback: true
 # Link to a privacy policy in footer, uncomment and define if wanted
 # privacy: https://domain.com/privacy
 
-# google-analytics: UA-XXXXXXXXXX
+google-analytics: G-DCLT8YZX0K
 # Image and (square) dimension for logo (don't start with /)
 # If commented, will use material hat theme
 # logo: "assets/img/logo/SRCC-square-red.png"
